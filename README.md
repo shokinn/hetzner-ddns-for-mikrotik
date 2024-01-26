@@ -1,6 +1,9 @@
 # hetzner-ddns-for-mikrotik
 
-This Mikrotik RouterOS script for updating DNS entries via Hetzner's DNS API.
+This Mikrotik RouterOS **7** script for updating DNS entries via Hetzner's DNS API.
+
+The script is currently only compatible with **RouterOS 7**!  
+RouterOS 6 is currently not supported.
 
 ## Table of Contents
 
