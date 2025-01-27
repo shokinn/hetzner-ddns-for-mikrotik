@@ -1,3 +1,7 @@
+# THIS REPO IS DEPRECATED
+Hi there I've deprecated this repo in favor of:  
+https://git.s1q.dev/phg/routeros-scripts-custom
+
 # hetzner-ddns-for-mikrotik
 
 This Mikrotik RouterOS **7** script for updating DNS entries via Hetzner's DNS API.
@@ -7,6 +11,7 @@ RouterOS 6 is currently not supported.
 
 ## Table of Contents
 
+- [THIS REPO IS DEPRECATED](#this-repo-is-deprecated)
 - [hetzner-ddns-for-mikrotik](#hetzner-ddns-for-mikrotik)
   - [Table of Contents](#table-of-contents)
   - [How does is works?](#how-does-is-works)
