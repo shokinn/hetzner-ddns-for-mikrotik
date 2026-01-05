@@ -1,6 +1,15 @@
-# THIS REPO IS DEPRECATED
-Hi there I've deprecated this repo in favor of:  
-https://git.s1q.dev/phg/routeros-scripts-custom
+# ⚠️ THIS REPO IS DEPRECATED ⚠️
+
+> [!WARNING]
+> **Hi there, I've deprecated this repo in favor of:**  
+> <https://github.com/shokinn/routeros-scripts-custom>
+>
+> You can find the updated script for the new Hetzner Cloud API there.  
+> It also seamlessly integrates with [Christian Hesse](https://github.com/eworm-de)'s [RouterOS Scripts](https://github.com/eworm-de/routeros-scripts), which come a handy update mechanism.
+
+---
+---
+---
 
 # hetzner-ddns-for-mikrotik
 
@@ -11,7 +20,7 @@ RouterOS 6 is currently not supported.
 
 ## Table of Contents
 
-- [THIS REPO IS DEPRECATED](#this-repo-is-deprecated)
+- [⚠️ THIS REPO IS DEPRECATED ⚠️](#️-this-repo-is-deprecated-️)
 - [hetzner-ddns-for-mikrotik](#hetzner-ddns-for-mikrotik)
   - [Table of Contents](#table-of-contents)
   - [How does is works?](#how-does-is-works)
