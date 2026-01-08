@@ -5,7 +5,7 @@
 > <https://github.com/shokinn/routeros-scripts-custom>
 >
 > You can find the updated script for the new Hetzner Cloud API there.  
-> It also seamlessly integrates with [Christian Hesse](https://github.com/eworm-de)'s [RouterOS Scripts](https://github.com/eworm-de/routeros-scripts), which come a handy update mechanism.
+> It also seamlessly integrates with [Christian Hesse](https://github.com/eworm-de)'s [RouterOS Scripts](https://github.com/eworm-de/routeros-scripts), which come with a handy update mechanism.
 
 ---
 ---
